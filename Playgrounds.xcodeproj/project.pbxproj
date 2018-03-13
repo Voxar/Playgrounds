@@ -1,0 +1,94 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXFileReference section */
+		9930310A203AE8480090F733 /* FSM.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = FSM.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		993196261FAA4F9C00CEF472 /* Await.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Await.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		993196271FAA4F9C00CEF472 /* Cache.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Cache.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		993196281FAA4F9C00CEF472 /* ThemeEngine.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ThemeEngine.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		993196291FAA4F9C00CEF472 /* when.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = when.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9931962A1FAA4F9C00CEF472 /* Terraform.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Terraform.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9931962B1FAA4F9C00CEF472 /* Paging.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Paging.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		99510F652057E5CC00D130BB /* Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Tree.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		995E0B9C1FD9B647008FDCDF /* ArrayThing.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ArrayThing.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		998C2EC11FB0DF3100FC2A8C /* Cad.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Cad.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		99C985C02006C8B3009C0FA6 /* nn.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = nn.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		99EC7962203F028A0005F240 /* diff.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = diff.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		9931961F1FAA4F7A00CEF472 = {
+			isa = PBXGroup;
+			children = (
+				99EC7962203F028A0005F240 /* diff.playground */,
+				9930310A203AE8480090F733 /* FSM.playground */,
+				99C985C02006C8B3009C0FA6 /* nn.playground */,
+				995E0B9C1FD9B647008FDCDF /* ArrayThing.playground */,
+				993196261FAA4F9C00CEF472 /* Await.playground */,
+				993196271FAA4F9C00CEF472 /* Cache.playground */,
+				9931962B1FAA4F9C00CEF472 /* Paging.playground */,
+				9931962A1FAA4F9C00CEF472 /* Terraform.playground */,
+				993196281FAA4F9C00CEF472 /* ThemeEngine.playground */,
+				993196291FAA4F9C00CEF472 /* when.playground */,
+				998C2EC11FB0DF3100FC2A8C /* Cad.playground */,
+				99510F652057E5CC00D130BB /* Tree.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		993196201FAA4F7A00CEF472 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0900;
+			};
+			buildConfigurationList = 993196231FAA4F7A00CEF472 /* Build configuration list for PBXProject "Playgrounds" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 9931961F1FAA4F7A00CEF472;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		993196241FAA4F7A00CEF472 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		993196251FAA4F7A00CEF472 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		993196231FAA4F7A00CEF472 /* Build configuration list for PBXProject "Playgrounds" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				993196241FAA4F7A00CEF472 /* Debug */,
+				993196251FAA4F7A00CEF472 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 993196201FAA4F7A00CEF472 /* Project object */;
+}
